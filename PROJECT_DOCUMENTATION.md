@@ -19,7 +19,7 @@ A webpage article about Napoleon, a historical figure
 
 ### Aniken:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for the table, also added an image.
 
 ### Dorothy:
 
