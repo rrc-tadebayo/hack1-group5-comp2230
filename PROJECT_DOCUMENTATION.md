@@ -27,4 +27,4 @@ A webpage article about Napoleon, a historical figure
 
 ### Gurmandeep:
 
--   [did something on the webpage]
+-   Added description about early life of napoleon.
