@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+A webpage article about Napoleon, a historical figure
 
 ## Team Members:
 
@@ -15,11 +15,11 @@
 
 ### Triumphant:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on the header/footer, links and embedded media of the webpage.
 
 ### Aniken:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for the table, also added an image.
 
 ### Dorothy:
 
@@ -27,4 +27,4 @@
 
 ### Gurmandeep:
 
--   [did something on the webpage]
+-   Added description about early life of napoleon.
